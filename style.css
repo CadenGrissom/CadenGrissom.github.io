@@ -1,0 +1,35 @@
+body{
+	background-color: #36454F;
+}
+
+#column{
+	width:45%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+a,p,text,h1{
+	color:white;
+	text-align: center;
+	text-decoration:none;
+	
+}
+
+#index{
+	text-align:center;
+	position: absolute;
+	bottom: 30px;
+	width: 43%;
+}
+
+#mainbody{
+	font-size: 150%;
+}
+
+li{
+	color:white;
+	text-align: center;
+	text-decoration:none;
+	font-size: 150%;
+	list-style-position: inside;
+}
